@@ -1,0 +1,9 @@
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\bin\Debug\Lab2_oiad.exe.config
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\bin\Debug\Lab2_oiad.exe
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\bin\Debug\Lab2_oiad.pdb
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\obj\Debug\Lab2_oiad.csprojAssemblyReference.cache
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\obj\Debug\Lab2_oiad.Form1.resources
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\obj\Debug\Lab2_oiad.Properties.Resources.resources
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\obj\Debug\Lab2_oiad.csproj.GenerateResource.cache
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\obj\Debug\Lab2_oiad.exe
+C:\Marina\3course\OIAD\lab_oiad\Lab2_oiad\Lab2_oiad\obj\Debug\Lab2_oiad.pdb
